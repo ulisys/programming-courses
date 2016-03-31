@@ -16,10 +16,9 @@ Check these free online curses from Udacity, Microsoft and Oracle:
  * Batch		[:link:](http://spring.io/guides/gs/batch-processing/)
  * Boot		[:link:](http://spring.io/guides/gs/spring-boot/)
  * Data
- 
    * JPA [:link:](http://spring.io/guides/gs/accessing-data-jpa/)
-    * REST [:link:](http://spring.io/guides/gs/accessing-data-rest/)
-     * Redis [:link:](https://www.javacodegeeks.com/2012/06/using-redis-with-spring.html)
+   * REST [:link:](http://spring.io/guides/gs/accessing-data-rest/)
+   * Redis [:link:](https://www.javacodegeeks.com/2012/06/using-redis-with-spring.html)
 
 
 * Maven [:link:](http://spring.io/guides/gs/maven/)
