@@ -75,10 +75,10 @@ Check these free online curses from Udacity, Microsoft and Oracle:
 The following English Language section was added, very useful to be prepared for job interviews and be ready for meetings: 
 
 ## English for Meetings
-* Top words for your JOB INTERVIEW & RESUME [:link:] (https://www.youtube.com/watch?v=8wAf4EX3-BI)
+* Top words for your JOB INTERVIEW & RESUME [:link:](https://www.youtube.com/watch?v=8wAf4EX3-BI)
 * Conversation Skills – Understand PHONE conversations in English [:link:](https://www.youtube.com/watch?v=6qSXlTPr2HA)
 * How to give a strong presentation: tips & key phrases [:link:](https://www.youtube.com/watch?v=0zW5trYrgvc)
-* Speak English naturally by using filler phrases [:link] (https://www.youtube.com/watch?v=uCcFSUWNoDw)
+* Speak English naturally by using filler phrases [:link:](https://www.youtube.com/watch?v=uCcFSUWNoDw)
 * IELTS Speaking: The Secret Method [:link:] (https://www.youtube.com/watch?v=E38hTC6ckdQ)
 * Sound more fluent in English [:link:] (https://www.youtube.com/watch?v=xNxbqVaDItg)
 * Learn English: How to talk like the boss [:link:] (https://www.youtube.com/watch?v=G7XElnNJed4)
