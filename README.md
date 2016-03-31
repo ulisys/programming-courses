@@ -84,7 +84,5 @@ The following English Language section was added, very useful to be prepared for
 * Learn English: How to talk like the boss [:link:] (https://www.youtube.com/watch?v=G7XElnNJed4)
 * Speak as clearly as an actor [:link:] (https://www.youtube.com/watch?v=AQNMCgKvOk0)
 * Conversation Skills: How to agree or disagree [:link:] (https://www.youtube.com/watch?v=amJ7ApXR0tw)
-* Top words for your JOB INTERVIEW & RESUME [:link:] (https://www.youtube.com/watch?v=8wAf4EX3-BI) 
-
 
 
