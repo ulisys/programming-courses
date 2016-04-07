@@ -8,7 +8,7 @@ Check these free online curses from Udacity, Microsoft and Oracle:
 ## Java
 
 * Intro to Java Programming	(CS046) [:link:](https://www.udacity.com/course/intro-to-java-programming--cs046)
-* Design Paterns: [:link:](http://www.javacamp.org/designPattern/)
+* Design Patterns: [:link:](http://www.javacamp.org/designPattern/)
 * Collections: [:link:](http://tutorials.jenkov.com/java-collections/collection.html)
 * Spring Framework:
  * MVC [:link:](http://docs.spring.io/docs/Spring-MVC-step-by-step/)
