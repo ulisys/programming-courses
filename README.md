@@ -5,6 +5,17 @@ Would you like to be a Strong Java Full Stack Developer or be updated with the l
 
 Check these free online curses from Udacity, Microsoft and Oracle:
 
+# Table of contents
+
+* [Java](#Java)
+* [WEB Design (HTML5, CSS and Javascript)](#web-design-html5-css-and-javascript)
+* [Testing](#testing)
+* [Databases](#databases)
+* [Developer Tools](#developer-tools)
+* [Security](#security)
+* [Linux](#linux)
+* [English for Meetings](#english-for-meetings)
+
 ## Java
 
 * Intro to Java Programming	(CS046) [:link:](https://www.udacity.com/course/intro-to-java-programming--cs046)
@@ -72,7 +83,7 @@ Check these free online curses from Udacity, Microsoft and Oracle:
 
 * Linux Command Line Basics	(UD595)	[:link:](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
-The following English Language section was added, very useful to be prepared for job interviews and be ready for meetings: 
+The following English Language section was added, very useful to be prepared for job interviews and be ready for meetings:
 
 ## English for Meetings
 * Top words for your JOB INTERVIEW & RESUME [:link:](https://www.youtube.com/watch?v=8wAf4EX3-BI)
@@ -84,5 +95,3 @@ The following English Language section was added, very useful to be prepared for
 * Learn English: How to talk like the boss [:link:] (https://www.youtube.com/watch?v=G7XElnNJed4)
 * Speak as clearly as an actor [:link:] (https://www.youtube.com/watch?v=AQNMCgKvOk0)
 * Conversation Skills: How to agree or disagree [:link:] (https://www.youtube.com/watch?v=amJ7ApXR0tw)
-
-
